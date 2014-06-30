@@ -7,7 +7,7 @@
 	<body>
 		<div>
 			<h1>P1 - Laura Filman - Dynamic Web Applications</h1>
-			<img src="images/harvardid.jpg">
+			<img src="images/harvardid.jpg" alt="Laura" title="Laura">
 			<h2>Questions:</h2>
 			<h3>In 2+ sentences describe who you are and what you do.</h3>
 				<p>This is my answer</p>
