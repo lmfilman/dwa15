@@ -8,11 +8,15 @@
 				font:15px arial,sans-serif;
 				margin: 20px;
 			}
-            .center {
+            .centerAndColor {
             	margin: auto;
             	background-color: #FF9966;
             	text-align:center;
             	color: #FFFFFF;
+            }
+            .center {
+                margin: auto;
+                text-align:center;
             }
             p {
                 width: 700px;
@@ -26,8 +30,8 @@
 	</head>
 	<body>
 		<div>
-			<div class="center"><h1>P1 - Laura Filman - Dynamic Web Applications</h1></div>
-			<div align="center"><img src="images/harvardid.jpg" alt="Laura" title="Laura" ></div>
+			<div class="centerAndColor"><h1>P1 - Laura Filman - Dynamic Web Applications</h1></div>
+			<div class="center"><img src="images/harvardid.jpg" alt="Laura" title="Laura" ></div>
 			<h2>Questions:</h2>
 			<h3>In 2+ sentences describe who you are and what you do.</h3>
 				<p>Hi! My name is Laura, and I'm a QE (quality engineer) at MathWorks (they make MATLAB). I primarily work on verifying and writing automated tests for the web applications on <a href="http://www.mathworks.com/matlabcentral/">MATLAB Central</a>.  In my spare time, I like to jog, cook, and watch Netflix.</p>
